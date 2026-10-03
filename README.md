@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:1b0a3a,100:7B2CFF&height=230&section=header&text=ODIN&fontSize=78&fontColor=00F7FF&fontAlignY=42&desc=%3E_%20DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descSize=16&descColor=FF2E97&descAlignY=66&animation=fadeIn" width="100%" alt="header"/>
+<img src="assets/odin-banner.svg" width="100%" alt="ODIN"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F7FF&background=0D111700&center=true&vCenter=true&width=760&height=50&lines=%24+building+things+that+shouldn't+exist.;%24+turning+ideas+into+code...;%24+full-stack+%7C+cloud+%7C+systems;%24+always+learning.+always+building." alt="typing"/>
 
@@ -144,7 +144,27 @@
 
 ### `// ACHIEVEMENTS`
 
-<img src="https://github-profile-trophy.vercel.app/?username=Odin-Gojo&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+```text
+ ╔══════════════════════════════════════════╗
+ ║  ★  ACHIEVEMENTS  UNLOCKED  :  6 / 8  ★  ║
+ ╚══════════════════════════════════════════╝
+```
+
+<img src="https://img.shields.io/badge/🏆_FIRST_COMMIT-UNLOCKED-00F7FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🐛_BUG_SLAYER-UNLOCKED-FF2E97?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🦉_NIGHT_OWL-UNLOCKED-7B2CFF?style=for-the-badge&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/⚡_FULL--STACK_BUILDER-UNLOCKED-00F7FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/☁️_CLOUD_EXPLORER-UNLOCKED-FF2E97?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/📚_ALWAYS_LEARNING-UNLOCKED-7B2CFF?style=for-the-badge&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/🔒_OPEN_SOURCE_CONTRIBUTOR-IN_PROGRESS-30363d?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🔒_SHIP_A_PRODUCT-IN_PROGRESS-30363d?style=for-the-badge&labelColor=0D1117"/>
+
+<br><br>
+
+<!-- Live trophies: these load from a free third-party service and show up once your account has activity. If the service is down they just appear blank — the badges above always work. -->
+<img src="https://github-profile-trophy.vercel.app/?username=Odin-Gojo&theme=tokyonight&no-frame=true&margin-w=8&column=6"/>
 
 <br>
 
