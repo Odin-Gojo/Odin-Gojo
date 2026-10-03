@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/odin-banner.svg" width="100%" alt="ODIN"/>
+<img src="https://raw.githubusercontent.com/Odin-Gojo/Odin-Gojo/main/assets/odin-banner.svg" width="100%" alt="ODIN"/>
 <img src="assets/odin-banner.svg" width="100%" alt="ODIN"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F7FF&background=0D111700&center=true&vCenter=true&width=760&height=50&lines=%24+building+things+that+shouldn't+exist.;%24+turning+ideas+into+code...;%24+full-stack+%7C+cloud+%7C+systems;%24+always+learning.+always+building." alt="typing"/>
