@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="assets/odin-banner.svg" width="100%" alt="ODIN banner" />
+</div>
+<div align="center">
 
 <img src="assets/odin-banner.svg" width="100%" alt="ODIN"/>
 
