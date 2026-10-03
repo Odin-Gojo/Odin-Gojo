@@ -81,23 +81,22 @@ TOOLS
 // TERMINAL
 <br> <table> <tr> <td>
 ┌──────────────────────────────────────────────────────┐
-│  ●  ●  ●                                             │
-│                                                      │
-│  odin@github:~$                                      │
-│                                                      │
+│  odin@github:~$ neofetch
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=180&pause=500&color=00F7FF&center=true&vCenter=true&width=500&height=55&lines=O;OD;ODI;ODIN;ODIN_&repeat=1" />
-│                                                      │
-│  > initializing developer profile...                 │
-│  > loading skills...                                 │
-│  > loading projects...                               │
-│  > connecting to github...                           │
-│                                                      │
-│  [████████████████████████████████████] 100%         │
-│                                                      │
-│  ✓ SYSTEM ONLINE                                     │
-│  ✓ ALL SYSTEMS NOMINAL                               │
-│                                                      │
+             ██████╗ ██████╗ ██╗███╗   ██╗
+            ██╔═══██╗██╔══██╗██║████╗  ██║
+            ██║   ██║██║  ██║██║██╔██╗ ██║
+            ██║   ██║██║  ██║██║██║╚██╗██║
+            ╚██████╔╝██████╔╝██║██║ ╚████║
+             ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝
+
+ OS              GitHub
+ HOST            Odin's Workspace
+ KERNEL          Curiosity
+ SHELL           zsh / powershell
+ EDITOR          VS Code
+ STATUS          ONLINE
+
 └──────────────────────────────────────────────────────┘
 
 </td> </tr> </table> <br>
