@@ -1,24 +1,89 @@
+<div align="center">
+⚡ ODIN
+Developer • Builder • Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+things+that+shouldn't+exist.;Turning+ideas+into+code.;Full-Stack+%7C+Cloud+%7C+Systems;Always+learning.+Always+building." alt="Typing SVG" /> <br> <img src="https://komarev.com/ghpvc/?username=Odin-Gojo&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" alt="Profile views"/> </div>
+🧬 whoami
+┌──[odin@github]─[~]
+└─$ whoami
 
-## 🌐 Socials:
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Odin) 
+> Developer
+> Builder
+> Tech enthusiast
+> Open-source explorer
+> Professional problem solver
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Odin-Gojo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Odin-Gojo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Odin-Gojo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+┌──[odin@github]─[~]
+└─$ current_status
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Odin-Gojo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[+] Writing code
+[+] Learning new technologies
+[+] Building side projects
+[+] Breaking things
+[+] Fixing them again
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Odin-Gojo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I like turning ideas into software — from low-level code to cloud infrastructure and modern web applications.
 
----
-[![](https://komarev.com/ghpvc/?username=Odin-Gojo&icon=0&color=0)](https://visitcount.itsvg.in)
+⚙️ TECH_STACK
+Languages
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,js,ts,php" /> </p>
+Frontend & Backend
+<p> <img src="https://skillicons.dev/icons?i=html,react,nextjs,nodejs,express,nestjs,vite,sass" /> </p>
+Cloud & Infrastructure
+<p> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,firebase,supabase,vercel,netlify,docker,kubernetes,terraform,jenkins" /> </p>
+Databases
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase" /> </p>
+Tools & Workflow
+<p> <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,notion,ps,ai" /> </p>
+🚀 WHAT_I_BUILD
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   🌐 Web Applications        ████████████████░░  90%   │
+│   ☁️ Cloud & Infrastructure   ██████████████░░░░  80%   │
+│   ⚙️ Backend Systems          █████████████░░░░░  75%   │
+│   📱 Application Development  ████████████░░░░░░  70%   │
+│   🧠 Data / Automation        ██████████░░░░░░░░  60%   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🧪 CURRENTLY_BUILDING
+
+🚧 Loading next project...
+
++ Designing
++ Developing
++ Experimenting
++ Deploying
++ Optimizing
+
+
+I'm always experimenting with new technologies, architectures and ideas.
+
+If something looks interesting, I'll probably try to build it.
+
+📊 GITHUB_ANALYTICS
+<div align="center"> <img src="https://github-readme-stats.shion.dev/api?username=Odin-Gojo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9" height="180"/> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Odin-Gojo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Odin-Gojo&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /> </div>
+🏆 ACHIEVEMENTS
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Odin-Gojo&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" /> </div>
+📈 CONTRIBUTIONS
+<div align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=Odin-Gojo&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" /> </div>
+🌐 CONNECT
+<div align="center"> <a href="https://codepen.io/Odin"> <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/> </a> <a href="https://github.com/Odin-Gojo"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/> </a> </div>
+<div align="center">
+SYSTEM STATUS
+╔════════════════════════════════════════════╗
+║                                            ║
+║   ● ONLINE                                 ║
+║                                            ║
+║   STATUS      : BUILDING                   ║
+║   MODE        : CREATE                     ║
+║   MOTIVATION  : ████████████████████ 100%  ║
+║                                            ║
+╚════════════════════════════════════════════╝
+
+⚡ "The best way to predict the future is to build it."
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/> </div>
