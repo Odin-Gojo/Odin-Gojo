@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+<title id="title">Monochrome retro developer dashboard</title>
+<desc id="desc">Black and white retro developer dashboard with a clipped live terminal and a looping Pac-Clawd arcade animation.</desc>
+<defs>
+  <clipPath id="terminalClip"><rect x="42" y="348" width="365" height="158" rx="3"/></clipPath>
+  <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 3.5H4" stroke="#fff" stroke-opacity=".055" stroke-width=".5"/></pattern>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#fff}
+    .heading{font-size:16px;font-weight:700;letter-spacing:1.5px}
+    .small{font-size:12px}
+    .panel{fill:#000;stroke:#fff;stroke-opacity:.82;stroke-width:1.25}
+    .muted{fill:#fff;fill-opacity:.62}
+    .line{stroke:#fff;stroke-opacity:.3;fill:none}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    @keyframes draw{from{stroke-dashoffset:600}to{stroke-dashoffset:0}}
+    .cursor{animation:blink 1s steps(2,end) infinite}
+    .chart-line{stroke-dasharray:600;stroke-dashoffset:600;animation:draw 3s ease-out infinite alternate}
+    @media (prefers-reduced-motion:reduce){.code-scroll,.cursor,.chart-line{animation:none}}
+  </style>
+</defs>
+<rect width="1200" height="560" fill="#000"/>
+<rect width="1200" height="560" fill="url(#scanlines)"/>
+<rect x="14" y="14" width="1172" height="532" rx="16" fill="#000" stroke="#fff" stroke-width="2"/>
+<text x="42" y="48" class="mono heading">BUILD &lt; LEARN &lt; IMPROVE</text>
+<path d="M360 41H1104" class="line"/>
+<text x="1120" y="48" class="mono">[● ● ●]</text>
+<!-- Skills matrix -->
+<rect x="30" y="68" width="300" height="255" rx="8" class="panel"/>
+<text x="46" y="94" class="mono heading">&gt; SKILLS MATRIX</text>
+<g class="mono small">
+ <text x="46" y="122">PYTHON</text><text x="46" y="147">JAVASCRIPT</text><text x="46" y="172">REACT</text><text x="46" y="197">SQL</text><text x="46" y="222">LINUX</text><text x="46" y="247">GIT</text><text x="46" y="272">DOCKER</text><text x="46" y="297">DS / ML</text>
+</g>
+<g fill="#fff">
+ <rect x="150" y="108" width="18" height="18"/><rect x="174" y="108" width="18" height="18" opacity=".25"/><rect x="198" y="108" width="18" height="18" opacity=".65"/><rect x="222" y="108" width="18" height="18" opacity=".35"/><rect x="246" y="108" width="18" height="18" opacity=".8"/><rect x="270" y="108" width="18" height="18" opacity=".45"/>
+ <rect x="150" y="133" width="18" height="18" opacity=".8"/><rect x="174" y="133" width="18" height="18" opacity=".5"/><rect x="198" y="133" width="18" height="18" opacity=".2"/><rect x="222" y="133" width="18" height="18"/><rect x="246" y="133" width="18" height="18" opacity=".4"/><rect x="270" y="133" width="18" height="18" opacity=".7"/>
+ <rect x="150" y="158" width="18" height="18" opacity=".3"/><rect x="174" y="158" width="18" height="18"/><rect x="198" y="158" width="18" height="18" opacity=".55"/><rect x="222" y="158" width="18" height="18" opacity=".25"/><rect x="246" y="158" width="18" height="18" opacity=".75"/><rect x="270" y="158" width="18" height="18" opacity=".35"/>
+ <rect x="150" y="183" width="18" height="18" opacity=".55"/><rect x="174" y="183" width="18" height="18" opacity=".3"/><rect x="198" y="183" width="18" height="18"/><rect x="222" y="183" width="18" height="18" opacity=".75"/><rect x="246" y="183" width="18" height="18" opacity=".45"/><rect x="270" y="183" width="18" height="18" opacity=".2"/>
+ <rect x="150" y="208" width="18" height="18" opacity=".75"/><rect x="174" y="208" width="18" height="18" opacity=".25"/><rect x="198" y="208" width="18" height="18" opacity=".45"/><rect x="222" y="208" width="18" height="18"/><rect x="246" y="208" width="18" height="18" opacity=".35"/><rect x="270" y="208" width="18" height="18" opacity=".65"/>
+ <rect x="150" y="233" width="18" height="18" opacity=".35"/><rect x="174" y="233" width="18" height="18" opacity=".8"/><rect x="198" y="233" width="18" height="18"/><rect x="222" y="233" width="18" height="18" opacity=".4"/><rect x="246" y="233" width="18" height="18" opacity=".7"/><rect x="270" y="233" width="18" height="18" opacity=".25"/>
+ <rect x="150" y="258" width="18" height="18" opacity=".65"/><rect x="174" y="258" width="18" height="18" opacity=".3"/><rect x="198" y="258" width="18" height="18" opacity=".75"/><rect x="222" y="258" width="18" height="18" opacity=".45"/><rect x="246" y="258" width="18" height="18"/><rect x="270" y="258" width="18" height="18" opacity=".4"/>
+ <rect x="150" y="283" width="18" height="18" opacity=".25"/><rect x="174" y="283" width="18" height="18" opacity=".65"/><rect x="198" y="283" width="18" height="18" opacity=".35"/><rect x="222" y="283" width="18" height="18"/><rect x="246" y="283" width="18" height="18" opacity=".55"/><rect x="270" y="283" width="18" height="18" opacity=".75"/>
+</g>
+<!-- Main graph -->
+<rect x="346" y="68" width="500" height="255" rx="8" class="panel"/>
+<text x="364" y="94" class="mono heading">&gt; COMMIT GROWTH</text>
+<g class="line" stroke-dasharray="4 5"><path d="M390 125H824M390 165H824M390 205H824M390 245H824M390 285H824"/><path d="M430 112V290M470 112V290M510 112V290M550 112V290M590 112V290M630 112V290M670 112V290M710 112V290M750 112V290M790 112V290"/></g>
+<path d="M390 280 L430 268 L470 272 L510 235 L550 244 L590 218 L630 225 L670 185 L710 195 L750 155 L790 130 L824 112" fill="none" stroke="#fff" stroke-width="2.5" class="chart-line"/>
+<g fill="#fff"><circle cx="390" cy="280" r="4"/><circle cx="470" cy="272" r="4"/><circle cx="550" cy="244" r="4"/><circle cx="630" cy="225" r="4"/><circle cx="710" cy="195" r="4"/><circle cx="790" cy="130" r="4"/></g>
+<text x="390" y="309" class="mono small">JAN</text><text x="500" y="309" class="mono small">APR</text><text x="610" y="309" class="mono small">JUL</text><text x="720" y="309" class="mono small">OCT</text><text x="790" y="309" class="mono small">DEC</text>
+<!-- Right panel -->
+<rect x="862" y="68" width="308" height="255" rx="8" class="panel"/>
+<text x="880" y="94" class="mono heading">&gt; SYSTEM STATUS</text>
+<g class="mono small"><text x="880" y="132">BUILD</text><text x="1100" y="132">PASS</text><text x="880" y="166">TESTS</text><text x="1100" y="166">98.4%</text><text x="880" y="200">UPTIME</text><text x="1100" y="200">99.9%</text><text x="880" y="234">MODE</text><text x="1100" y="234">FOCUS</text></g>
+<g fill="none" stroke="#fff" stroke-width="2"><rect x="880" y="143" width="270" height="5"/><rect x="880" y="177" width="270" height="5"/><rect x="880" y="211" width="270" height="5"/></g>
+<g fill="#fff"><rect x="880" y="143" width="240" height="5"/><rect x="880" y="177" width="260" height="5"/><rect x="880" y="211" width="250" height="5"/></g>
+<!-- Bottom-left active terminal -->
+<rect x="30" y="340" width="440" height="184" rx="8" class="panel"/>
+<text x="46" y="365" class="mono heading">&gt; LIVE TERMINAL</text>
+<circle cx="422" cy="359" r="4" fill="#fff"/><text x="436" y="363" class="mono small" text-anchor="end">RUNNING</text>
+<path d="M42 375H458" class="line"/>
+<g clip-path="url(#terminalClip)" class="mono small">
+  <!-- Two identical code streams make the upward scroll seamless; clipping keeps every line inside the terminal. -->
+  <g class="code-scroll">
+    <g>
+      <text x="46" y="395">$ npm run build</text><text x="46" y="413">&gt; compiling modules...</text><text x="46" y="431">[ OK ] bundle generated</text><text x="46" y="449">$ git add .</text><text x="46" y="467">$ git commit -m "ship it"</text><text x="46" y="485">[ OK ] changes committed</text><text x="46" y="503">$ npm test</text><text x="46" y="521">&gt; running 42 tests...</text><text x="46" y="539">[ OK ] all tests passed</text><text x="46" y="557">$ git push origin main</text><text x="46" y="575">[ OK ] deployed successfully</text><text x="46" y="593">$ npm run build</text>
+    </g>
+    <g transform="translate(0 216)">
+      <text x="46" y="395">$ npm run build</text><text x="46" y="413">&gt; compiling modules...</text><text x="46" y="431">[ OK ] bundle generated</text><text x="46" y="449">$ git add .</text><text x="46" y="467">$ git commit -m "ship it"</text><text x="46" y="485">[ OK ] changes committed</text><text x="46" y="503">$ npm test</text><text x="46" y="521">&gt; running 42 tests...</text><text x="46" y="539">[ OK ] all tests passed</text><text x="46" y="557">$ git push origin main</text><text x="46" y="575">[ OK ] deployed successfully</text><text x="46" y="593">$ npm run build</text>
+    </g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -216" dur="9s" repeatCount="indefinite"/>
+  </g>
+</g>
+<rect x="46" y="505" width="7" height="12" fill="#fff" class="cursor"/>
+<!-- bottom center project bars -->
+<rect x="486" y="340" width="360" height="184" rx="8" class="panel"/>
+<text x="504" y="365" class="mono heading">&gt; PROJECT QUEUE</text>
+<g class="mono small"><text x="504" y="397">WEB / UI</text><text x="504" y="432">AUTOMATION</text><text x="504" y="467">DATA TOOLS</text><text x="504" y="502">OPEN SOURCE</text></g>
+<g fill="none" stroke="#fff" stroke-opacity=".35"><rect x="620" y="384" width="198" height="8"/><rect x="620" y="419" width="198" height="8"/><rect x="620" y="454" width="198" height="8"/><rect x="620" y="489" width="198" height="8"/></g>
+<g fill="#fff"><rect x="620" y="384" width="166" height="8"/><rect x="620" y="419" width="128" height="8"/><rect x="620" y="454" width="95" height="8"/><rect x="620" y="489" width="144" height="8"/></g>
+<!-- animated monochrome Pac-Clawd arcade scene -->
+<defs><clipPath id="gameClip"><rect x="862" y="340" width="308" height="184" rx="8"/></clipPath></defs>
+<rect x="862" y="340" width="308" height="184" rx="8" class="panel"/>
+<g clip-path="url(#gameClip)">
+  <rect x="862" y="340" width="308" height="184" fill="#000"/>
+  <text x="878" y="359" fill="#fff" font-family="monospace" font-size="8" letter-spacing="1">CLAWD-CHOMP.EXE // ARCADE</text>
+  <text x="1152" y="359" fill="#fff" font-family="monospace" font-size="8" text-anchor="end">SCORE 042</text>
+  <rect x="878" y="370" width="276" height="136" fill="none" stroke="#fff" stroke-opacity=".65" stroke-width="1"/>
+  <path d="M901 370V506M924 370V506M947 370V506M970 370V506M993 370V506M1016 370V506M1039 370V506M1062 370V506M1085 370V506M1108 370V506M1131 370V506M878 393H1154M878 416H1154M878 439H1154M878 462H1154M878 485H1154" stroke="#fff" stroke-opacity=".12" stroke-width=".7"/>
+  <!-- Tiny dots disappear in a long looping arcade route. -->
+  <g fill="#fff" opacity=".9">
+    <circle cx="900" cy="393" r="2"/><circle cx="924" cy="393" r="2"/><circle cx="947" cy="393" r="2"/><circle cx="970" cy="393" r="2"/><circle cx="993" cy="393" r="2"/><circle cx="1016" cy="393" r="2"/><circle cx="1039" cy="393" r="2"/><circle cx="1062" cy="393" r="2"/><circle cx="1085" cy="393" r="2"/><circle cx="1108" cy="393" r="2"/><circle cx="1131" cy="393" r="2"/>
+    <circle cx="900" cy="416" r="2"/><circle cx="924" cy="416" r="2"/><circle cx="947" cy="416" r="2"/><circle cx="970" cy="416" r="2"/><circle cx="993" cy="416" r="2"/><circle cx="1016" cy="416" r="2"/><circle cx="1039" cy="416" r="2"/><circle cx="1062" cy="416" r="2"/><circle cx="1085" cy="416" r="2"/><circle cx="1108" cy="416" r="2"/><circle cx="1131" cy="416" r="2"/>
+    <circle cx="900" cy="439" r="2"/><circle cx="924" cy="439" r="2"/><circle cx="947" cy="439" r="2"/><circle cx="970" cy="439" r="2"/><circle cx="993" cy="439" r="2"/><circle cx="1016" cy="439" r="2"/><circle cx="1039" cy="439" r="2"/><circle cx="1062" cy="439" r="2"/><circle cx="1085" cy="439" r="2"/><circle cx="1108" cy="439" r="2"/><circle cx="1131" cy="439" r="2"/>
+    <circle cx="900" cy="462" r="2"/><circle cx="924" cy="462" r="2"/><circle cx="947" cy="462" r="2"/><circle cx="970" cy="462" r="2"/><circle cx="993" cy="462" r="2"/><circle cx="1016" cy="462" r="2"/><circle cx="1039" cy="462" r="2"/><circle cx="1062" cy="462" r="2"/><circle cx="1085" cy="462" r="2"/><circle cx="1108" cy="462" r="2"/><circle cx="1131" cy="462" r="2"/>
+    <circle cx="900" cy="485" r="2"/><circle cx="924" cy="485" r="2"/><circle cx="947" cy="485" r="2"/><circle cx="970" cy="485" r="2"/><circle cx="993" cy="485" r="2"/><circle cx="1016" cy="485" r="2"/><circle cx="1039" cy="485" r="2"/><circle cx="1062" cy="485" r="2"/><circle cx="1085" cy="485" r="2"/><circle cx="1108" cy="485" r="2"/><circle cx="1131" cy="485" r="2"/>
+  </g>
+  <!-- Original lobster-like arcade hero: rounded body, eye stalks, and two claws. -->
+  <g>
+    <animateMotion dur="18s" repeatCount="indefinite" rotate="auto" path="M 900,485 L 1130,485 L 1130,393 L 900,393 L 900,439 L 1085,439 L 1085,462 L 947,462 L 947,416 L 1108,416 L 1108,485 L 900,485"/>
+    <g stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <!-- body -->
+      <path d="M-13,-2 C-13,-12 -5,-17 4,-15 C13,-13 16,-5 13,3 C10,12 0,15 -8,10 C-12,7 -14,3 -13,-2Z" fill="#fff"/>
+      <!-- chomping mouth -->
+      <path d="M1,-2 L16,-9 Q13,0 16,8 Z" fill="#000" stroke="none">
+        <animate attributeName="d" dur=".55s" repeatCount="indefinite" values="M1,-2 L16,-9 Q13,0 16,8 Z;M1,-2 L12,-4 Q13,0 12,4 Z;M1,-2 L16,-9 Q13,0 16,8 Z"/>
+      </path>
+      <!-- eye stalks and eyes -->
+      <path d="M-5,-13 L-7,-19 M3,-14 L6,-20" fill="none"/>
+      <circle cx="-7" cy="-20" r="2.5" fill="#fff"/><circle cx="6" cy="-21" r="2.5" fill="#fff"/>
+      <circle cx="-6.5" cy="-20" r=".8" fill="#000" stroke="none"/><circle cx="6.5" cy="-21" r=".8" fill="#000" stroke="none"/>
+      <!-- animated lobster claws -->
+      <path d="M-9,-7 L-17,-12 L-20,-9 L-18,-5 L-22,-3 L-19,1 L-13,0" fill="#000"/>
+      <path d="M-8,6 L-16,11 L-19,8 L-17,4 L-21,2 L-18,-2 L-12,-1" fill="#000"/>
+      <path d="M-20,-9 L-16,-8 M-19,8 L-15,7" fill="none" stroke-width="1.2"/>
+      <!-- little feet -->
+      <path d="M-6,11 L-8,16 L-4,14 M2,13 L2,17 L6,14" fill="none" stroke-width="1.5"/>
+    </g>
+  </g>
+  <text x="1152" y="518" fill="#fff" font-family="monospace" font-size="7" text-anchor="end" letter-spacing="1">INSERT COIN // KEEP CHOMPING</text>
+</g>
+<text x="600" y="540" class="mono small" text-anchor="middle">NO DIM EFFECTS // PURE MONOCHROME // KEEP SHIPPING</text>
+</svg>
