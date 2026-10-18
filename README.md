@@ -171,7 +171,7 @@
 
 ### `// CONTRIBUTION.MATRIX`
 
-<img src="assets/Contribution-Margin-basic.png"/>
+<img src="assets/retro-github-dashboard-pac-clawd.svg"/>
 
 <br>
 
