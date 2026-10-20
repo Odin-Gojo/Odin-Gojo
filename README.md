@@ -195,7 +195,7 @@
 
 <a href="https://github.com/Odin-Gojo"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/></a>
 &nbsp;
-<a href="https://codepen.io/Odin"><img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=FF2E97"/></a>
+<a href=""><img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=FF2E97"/></a>
 
 <br>
 
